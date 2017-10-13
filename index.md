@@ -26,7 +26,7 @@
 ## Publications
 
 ### Published
-* Takahito Moriyama, "Spock's Baby" http://www.let.osaka-u.ac.jp/seiyousi/vol_7/pdf/JHP_7_2010_44-63.pdf
+* Takahito Moriyama, "Spock's Baby" [http://www.let.osaka-u.ac.jp/seiyousi/vol_7/pdf/JHP_7_2010_44-63.pdf](http://www.let.osaka-u.ac.jp/seiyousi/vol_7/pdf/JHP_7_2010_44-63.pdf)
 
 ### Preprints - Submitted for Publication
 * Moritz, Carolyn, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, Micah Vandegrift. “Decentering and Recentering Digital Scholarship: A Manifesto.” 10.17605/OSF.IO/T7HFU
