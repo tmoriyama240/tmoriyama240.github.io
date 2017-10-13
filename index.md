@@ -14,80 +14,19 @@
 
 ********
 
-## Work Experience
-
-### Florida State University (Tallahassee, FL) <br/> *November 2015-present*
-* Digital Humanities Librarian *(April 2017-present)*
-  * Build university-wide programs for training and project development in the digital humanities
-  * Consult with faculty on digital humanities project development
-  * Lead workshops on digital humanities topics for faculty, graduate students, and undergraduates
-  * Integrate with graduate and undergraduate classes to teach digital research skills
-* Digital Humanities Specialist *(February 2016-March 2017)*
-  * Consult with project directors on collecting, organizing, documenting, and publishing project outputs
-  * Develop and teach digital project incubator for teaching project development skills
-  * Develop resource guides for the analysis and visualization of data
-  * Create digital humanities project workflows for the libraries
-* Assistant Digital Scholarship Coordinator *(November 2015-January 2016)*
-  * Assisted with the processing of submissions to the institutional research repository
-  * Drafted University Research Data Management Policy
-  * Taught internal workshops for librarians on digital research tools
-
-### Women Writers Project, Northeastern University (Boston, MA) <br/>
-*January 2014-October 2015*
-* Institutes Coordinator *(March 2015-October 2015)*
-  * Adapted DH training materials from  workshops into materials for online tutorials
-* Research Assistant, Women Writers Online *(January 2014-August 2015)*
-  * Encoded and edited XML documents for publication
-  * Developed and maintained documentation for the project
-  * Assisted project manager in conducting reviews of the textbase for systematic errors
-* Research Assistant, Cultures of Reception
-  * Encoded and described reviews of women’s writing from the 18th and 19th centuries
-
-### Early Caribbean Digital Archive, Northeastern University (Boston, MA) <br/>
-*August 2014-May 2015*
-* Project Developer and Encoding Specialist
-  * Developed TEI schema and encoding workflows
-  * Encoded documents to ensure encoding standards fit with data
-
-********
-
 ## Teaching
 
-* Digital Humanities II, Humanities Curation *(Fall 2017)*
-  * Text encoding technologies
-  * Workflows for constraining, documenting, and transforming text data as a part of the humanities research lifecycle
+* ASH 3100 History of Asia *(Fall 2016)*
+  * Survey class on India, China, Korea, and Japan
+  * Giving lectures, grading papers
 
 ********
 
-## Projects and Consultations
-
-* Digital Egyptian Gazette, Florida State University *(September 2016-present)*
-  * Text encoding consultant
-* Linked Women Pedagogues, Florida State University *(March 2016-present)*
-  * Project consultant
-* Caribes, Florida State University *(November 2015-present)*
-  * Project consultant and metadata creation assistant
-* Burroughs Archive, Florida State University *(November 2015-present)*
-  * Encoding specialist and project manager
-* Il Secolo, Florida State University *(November 2015-January 2016)*
-  * Website developer
-* Just Teach One, American Antiquarian Society *(August 2015-January 2016)*
-  * Encoding specialist and project developer
-
-********
-
-## Professional Service
-
-* Member of the Text Encoding Initiative Technical Council (term: January 2017-December 2018)
-* Member of FSU Libraries’ Instruction Balanced Scorecard Initiative
-* Creator, GitHub version of the DLF Project Managers’ Toolkit
-
-********
 
 ## Publications
 
 ### Published
-* Stanley, Sarah and Micah Vandegrift (July 2016). “Cross-disciplinarity at the Crossroads.” dh+lib. http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/
+* Takahito Moriyama, "Spock's Baby" http://www.let.osaka-u.ac.jp/seiyousi/vol_7/pdf/JHP_7_2010_44-63.pdf
 
 ### Preprints - Submitted for Publication
 * Moritz, Carolyn, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, Micah Vandegrift. “Decentering and Recentering Digital Scholarship: A Manifesto.” 10.17605/OSF.IO/T7HFU
