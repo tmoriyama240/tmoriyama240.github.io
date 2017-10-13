@@ -1,18 +1,16 @@
-# Sarah Stanley
-<br/>scstanley7@gmail.com
-<br/>http://scatherinestanley.us
-<br/>GitHub: https://github.com/scstanley7
-<br/>ORCID: https://orcid.org/0000-0001-6089-3910
+# Taka Moriyama
+<br/>tm12t@my.fsu.edu
+<br/>GitHub: https://tmoriyama240.github.io/
 
 ********
 
 ## Education
 
-| Northeastern University (Boston, MA) | August 2015 |
+| Florida State University             | 2012-       |
 | -------------------------------------|------------:|
-| M.A. English                         |             |
-| **Ithaca College (Ithaca, NY)**      | **May 2013**|
-| B.A. English                         | &nbsp;      |
+| Ph.D. course                         | 2007-2012   |
+| M.A. American History                | March 2009  |
+| B.A. Western History                 | &nbsp;      |
 
 ********
 
